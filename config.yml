@@ -26,12 +26,8 @@ params:
   disableIncidentHistory: true
   ok: "#008000"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: East Coast
-    - name: Uncategorized
-      untitled: true
+    - name: system
+      untited: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false

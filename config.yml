@@ -20,6 +20,8 @@ params:
   customTabs:
     - name: GITHUB
       link: https://github.com/unofficial-skills/alpha-video
+    - name: Project Page
+      link: https://alpha-video.andrewstech.me/
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false

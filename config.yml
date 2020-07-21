@@ -17,6 +17,9 @@ params:
   logo: /logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: GITHUB
+      link: https://github.com/unofficial-skills/alpha-video
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false

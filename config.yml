@@ -35,8 +35,7 @@ params:
   categories:
     - name: system
       untited: true
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description: Alpha video is an alexa skill which allows the streaming of youtube videos.
   enableCustomHTML: false
   useLargeHeaderDesign: true
 theme: cstate

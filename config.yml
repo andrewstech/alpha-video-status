@@ -11,6 +11,10 @@ params:
     - name: youtube-dl
       category: system
       description: finds the streaming links
+    - name: youtube-scrape
+      category: system
+    - name: voiceflow
+      category: system
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white

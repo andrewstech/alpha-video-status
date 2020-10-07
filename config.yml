@@ -15,6 +15,8 @@ params:
       category: system
     - name: voiceflow
       category: system
+    - name: skill
+      category: system
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
